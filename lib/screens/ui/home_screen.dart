@@ -24,7 +24,7 @@ class HomeScreen extends GetView<HomeScreenController> {
                     margin: EdgeInsets.only(
                         top: MediaQuery.of(context).size.height * 0.07),
                     child: const Text(
-                      'ذكاتك',
+                      'زكاتي',
                       style: TextStyle(
                         fontWeight: FontWeight.bold,
                         fontSize: 30,

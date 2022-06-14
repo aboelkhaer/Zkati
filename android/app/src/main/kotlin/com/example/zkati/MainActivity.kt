@@ -1,4 +1,4 @@
-package com.example.zkati
+package com.aboelkhaer.zkati
 
 import io.flutter.embedding.android.FlutterActivity
 
